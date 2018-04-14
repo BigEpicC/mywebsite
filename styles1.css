@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+.topmenu {
+			text-decoration: none;
+			color: white;
+			background: #009CFF;
+			padding: 15px;
+			font-family: sans-serif;
+		}
+		a.topmenu:hover {
+			background: #2dadff;
+		}
+		
+		.login {
+			text-decoration: none;
+			color: white;
+			background: #41A700;
+			padding: 15px;
+			font-family: sans-serif;
+		}
+		
+		a.login:hover {
+			background: #70b245;
+		}
